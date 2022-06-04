@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/pix">
+        <file>images/key_BARRA_GIU.png</file>
+        <file>images/key_BARRA_SU.png</file>
+        <file>images/key_LATO_DESTRO_GIU.png</file>
+        <file>images/key_LATO_DESTRO_SU.png</file>
+
+        <file>images/key_LEVA_GETTO_OFF.png</file>
+        <file>images/key_LEVA_GETTO_ON.png</file>
+        <file>images/key_PORTELLA_ENTRA.png</file>
+        <file>images/key_PORTELLA_ESCE.png</file>
+        <file>images/key_PORTELLA_RUOTA_A_DX.png</file>
+        <file>images/key_PORTELLA_RUOTA_A_SX.png</file>
+        <file>images/key_POSTERIORE_GIU.png</file>
+        <file>images/key_POSTERIORE_SU.png</file>
+
+        <file>images/key_RUOTA_DX_GIU.png</file>
+        <file>images/key_RUOTA_DX_SU.png</file>
+        <file>images/key_RUOTA_SX_GIU.png</file>
+        <file>images/key_RUOTA_SX_SU.png</file>
+
+    </qresource>
+</RCC>
